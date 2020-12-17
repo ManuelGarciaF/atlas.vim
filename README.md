@@ -2,6 +2,8 @@
 
 > "What is man? He's just a collection of chemicals with delusions of grandeur."
 
+Made a fork just to change the background color of coc popups lol.
+
 ### Installation
 
 ```vim
